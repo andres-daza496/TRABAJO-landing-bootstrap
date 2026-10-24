@@ -1,0 +1,13 @@
+.hero {
+  min-height: 85vh;
+  background: linear-gradient(rgba(199, 205, 210, 0.65), rgba(7, 19, 186, 0.65)),
+              url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREA09ZTZmtexWCEYXcfk4reMqJzv0URbUBltIvCX84A&s=10");
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+
+
+
